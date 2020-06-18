@@ -25236,7 +25236,7 @@ X.i5.prototype={
 aJ:function(){return new X.BW(G.a41(u.ns),C.m)}}
 X.BW.prototype={
 I:function(a){var t=null,s=F.cf(a,!1).a,r=L.mo("Cadastro Clube Super Passo",t,t,t,A.iI(t,t,C.jr,t,t,t,t,t,t,t,t,20,t,C.ch,t,t,!0,t,t,t,t,t,t),t),q=L.Jp(C.vg),p=L.Jp(C.vd),o=L.Jp(C.vf),n=L.Jp(C.ve),m=F.cf(a,!1).a,l=new P.bd(30,30),k=K.aC(a,!1).x
-return new M.qu(E.a4W(new T.hW(C.X,t,t,new T.dl(400,s.b,T.XS(H.a([new U.lj(new L.nP("images/logo.png"),t),r,new T.dl(t,20,t,t),new F.jd("Nome",q,t),new F.jd("CPF",p,t),new F.jd("Telefone",o,t),new F.jd("E-mail",n,t),new T.dl(t,20,t,t),M.o8(t,new D.q_(new X.QS(a),t,t,t,t,t,K.aC(a,!1).x,t,t,t,t,t,t,t,t,t,t,t,L.mo("Cadastrar",t,t,t,A.iI(t,t,C.j,t,t,t,t,t,t,t,t,18,t,t,t,t,!0,t,t,t,t,t,t),t),t,t,new X.c7(new K.bt(l,l,l,l),new Y.d7(k,3,C.E)),C.ax,t,!1,t,t,t),t,t,t,55,t,new V.au(30,0,30,0),m.a),new T.dl(t,50,t,t)],u.t),C.kV,C.m4),t),t)),t)}}
+return new M.qu(new T.hW(C.X,t,t,new T.dl(400,s.b,E.a4W(T.XS(H.a([new U.lj(new L.nP("images/logo.png"),t),r,new T.dl(t,20,t,t),new F.jd("Nome",q,t),new F.jd("CPF",p,t),new F.jd("Telefone",o,t),new F.jd("E-mail",n,t),new T.dl(t,20,t,t),M.o8(t,new D.q_(new X.QS(a),t,t,t,t,t,K.aC(a,!1).x,t,t,t,t,t,t,t,t,t,t,t,L.mo("Cadastrar",t,t,t,A.iI(t,t,C.j,t,t,t,t,t,t,t,t,18,t,t,t,t,!0,t,t,t,t,t,t),t),t,t,new X.c7(new K.bt(l,l,l,l),new Y.d7(k,3,C.E)),C.ax,t,!1,t,t,t),t,t,t,55,t,new V.au(30,0,30,0),m.a),new T.dl(t,50,t,t)],u.t),C.kV,C.m4)),t),t),t)}}
 X.QS.prototype={
 $0:function(){return E.a8B(new X.QR(),this.a,u.H)},
 $S:74}
